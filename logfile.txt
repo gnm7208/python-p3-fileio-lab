@@ -1,1 +1,2 @@
-Log 1: 5 bananas addedLog 2: 3 bananas subtracted
+Log 1: 5 bananas added
+Log 2: 3 bananas subtracted
