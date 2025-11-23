@@ -18,3 +18,11 @@ def read_file(file_name):
         print(f.read())
         f.close()   
     pass
+
+# use write_file function. 
+write_file(file_name="logfile", file_content="Log 1: 5 bananas added" )
+append_file(file_name="logfile", append_content="Log 2: 3 bananas subtracted")
+
+read_file(file_name="logfile")
+# Log 1: 5 bananas added
+# Log 2: 3 bananas subtracted
